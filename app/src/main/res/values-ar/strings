@@ -8,9 +8,9 @@
     <string name="tab_updates">تحديث</string>
     <string name="tab_search">البحث</string>
     <string name="tab_about">حـول التطبيق</string>
-    <string name="notification_update_title">البحث عن تحديثات</string>
+    <string name="notification_update_title">...جاري البحث عن تحديثات</string>
     <string name="notification_update_content">$1/$2</string>
-    <string name="notification_update_title_finished">إنتهاء البحث عن التحديثات</string>
+    <string name="notification_update_title_finished">إنتهئ البحث عن التحديثات</string>
     <string name="notification_update_content_finished">تم العثور عن $1 تحديث جديد</string>
     <string name="notification_update_title_failed">فشل البحث عن التحديثات</string>
     <string name="already_updating">لقد قمت بالفعل التحقق من الحصول على التحديثات.</string>
@@ -20,7 +20,7 @@
     <string name="update_no_sources">يجب اختيار مصدر واحد على الأقل.</string>
     <string name="preferences_general_category">الإعدادات العامة</string>
     <string name="preferences_filter_category">فرز الإعدادات</string>
-    <string name="preferences_sources_category">تحديث المصادر</string>
+    <string name="preferences_sources_category">تحديثات المصادر</string>
     <string name="preferences_play_category">Google Play إعدادات</string>
     <string name="preferences_general_skip_experimental_title">استبعاد الإصدارات التجريبية</string>
     <string name="preferences_general_skip_experimental_summary">سيؤدي ذلك إلى محاولة استبعاد الإصدارات التجربية (ألفا وبيتا) من التحديثات.</string>
