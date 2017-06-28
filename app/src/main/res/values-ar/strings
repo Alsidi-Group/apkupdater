@@ -6,7 +6,7 @@
     <string name="action_check_for_updates">البحث عن تحديثات</string>
     <string name="tab_installed">المثبته</string>
     <string name="tab_updates">تحديث</string>
-    <string name="tab_search">البحث</string>
+    <string name="tab_search">البحث عن تطبيق</string>
     <string name="tab_about">حـول التطبيق</string>
     <string name="notification_update_title">البحث عن تحديثات</string>
     <string name="notification_update_content">$1/$2</string>
@@ -48,7 +48,7 @@
     <string name="preferences_general_use_apkpure_title">تحديثات من APKPure</string>
     <string name="preferences_general_use_apkpure_summary">سيؤدي هذا إلى التحقق من وجود تحديثات APKPure.com. يحتاج 2 طلبات في التطبيق، لذلك هو أبطأ.</string>
     <string name="preferences_general_wifi_only_title">Wi-Fi فقط</string>
-    <string name="preferences_general_wifi_only_summary">فقط التحقق من وجود تحديثات عند الاتصال بشبكة واي فاي.</string>
+    <string name="preferences_general_wifi_only_summary">التحقق من وجود تحديثات فقط عند الاتصال بشبكة واي فاي.</string>
     <string name="preferences_general_update_hour_title">تحديث الزمني</string>
     <string name="preferences_play_root_install_title">تثبيت الروت</string>
     <string name="preferences_play_root_install_summary">تثبيت التطبيقات في الخلفية باستخدام الروت. يحتاج الروت.</string>
